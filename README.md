@@ -1,7 +1,7 @@
 ## Hi, I'm Mohamed 🌟
 
 🧠 Computer Engineering student at The German University in Cairo.<br/>
-✍️ passionate about: AI, Web development, Game development. <br/>
+✍️ passionate about: Cyber Security, Computer Hardware Design, AI. <br/>
 
 ## 📫 Contact Me
 
